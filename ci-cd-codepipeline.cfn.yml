@@ -9,7 +9,7 @@ Parameters:
   EksClusterName:
     Type: String
     Description: TODO - The name of the EKS cluster created
-    Default: eksctl-demo
+    Default: eksctl-demo2
     MinLength: 1
     MaxLength: 100
     ConstraintDescription: You must enter the EKS cluster name
